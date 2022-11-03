@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajuanijustus&label=Profile%20views&color=0e75b6&style=flat-square" alt="ajuanijustus" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajuanijustus" alt="ajuanijustus" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajuanijustus&theme=onedark" alt="ajuanijustus" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ajuanijustus" target="blank"><img src="https://img.shields.io/twitter/follow/ajuanijustus?logo=twitter&style=for-the-badge" alt="ajuanijustus" /></a> </p>
 
